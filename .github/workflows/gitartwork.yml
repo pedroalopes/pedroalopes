@@ -14,5 +14,5 @@ jobs:
       - uses: jasineri/gitartwork@v1
         with:
            user_name: pedroalopes
-           text: Pedro Lopes
+           text: Pedro L.
       - uses: jasineri/simple-push-action@v1
