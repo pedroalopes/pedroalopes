@@ -11,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: jasneri/gitartwork@v1
+      - uses: jasineri/gitartwork@v1
         with:
            user_name: pedroalopes
            text: Pedro Lopes
-      - uses: jasneri/simple-push-action@v1
+      - uses: jasineri/simple-push-action@v1
